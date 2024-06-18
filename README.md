@@ -10,6 +10,12 @@
 6. [Multimodality](#multimodality)
 7. [Miscellaneous](#miscellaneous)
 8. [Other Resources](#other-resources)
+9. [ML Fundamentals](#ml-fundamentals)
+10. [Robotics](#robotics)
+11. [BioML](#bioml)
+12. [Miscellaneous](#miscellaneous)
+13. [Other Resouces](#other-resources)
+
 
 # Introduction
 Welcome to the Machine Learning at Berkeley reading list! This was assembled by students at UC Berkeley, and was designed to be a good reference for those in the intermediate stages of learning ML.
@@ -245,7 +251,6 @@ The following papers give you a flavor of each of the sections, and don’t requ
 
 # Multimodality
 
-
 # Robotics
 
 # BioML
@@ -253,6 +258,3 @@ The following papers give you a flavor of each of the sections, and don’t requ
 # Miscellaneous
 
 # Other Resources
-
-
-
